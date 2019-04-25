@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.transfast.transfast.debug",
+    "sha256_cert_fingerprints":
+    ["EB:2B:2C:89:71:A2:6B:E0:76:E7:62:27:65:46:5A:9B:6C:89:00:CE:90:15:8B:56:2E:46:73:B7:B5:CC:9E:FD"]
+  }
+}]
